@@ -1,0 +1,28 @@
+
+.logo {
+  width: 350px; 
+   margin: 25px auto;
+}
+.square{
+    height: 150px;
+    width:150px;
+    margin:0 10px 10px 0;
+    /* border-style: solid ; */
+    /* border-color:brown; */
+    float:left;
+}
+.red {
+    background-color: #f35322;
+  } 
+  
+  .green {
+    background-color:rgb(54, 229, 54);
+  }
+  
+  .blue {
+    background-color: #05a6f1;
+  }  
+  
+  .yellow {
+    background-color: #ffba05;
+  } 
